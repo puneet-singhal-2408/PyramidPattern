@@ -1,3 +1,11 @@
+"""
+Code for below pattern
+1 
+3 3 
+5 5 5 
+7 7 7 7 
+"""
+
 def pattern_three(rows):
     i = 1
     while i < rows:

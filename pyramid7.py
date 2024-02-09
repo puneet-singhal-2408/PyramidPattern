@@ -1,3 +1,11 @@
+"""
+Code for below pattern
+1 
+3 2 
+6 5 4 
+10 9 8 7 
+"""
+
 def pattern_seven():
     # N will be the number till where the reverse number to be printed.
     start = 1

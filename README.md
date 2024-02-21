@@ -1,4 +1,4 @@
-# PyramidPattern
+Unlocking Logical thinking with Patterns
 
 To solve any pyramid pattern problem we have 5 basic steps (Algorithm) to take in consideration.
 
